@@ -1,0 +1,17 @@
+[
+	{
+		#conditions : [ ],
+		#ts : 3832764876,
+		#comment : '',
+		#formatVersion : '1.1',
+		#applications : OrderedCollection [
+			{
+				#name : 'CampSmalltalkSupreme2022ExamplesApp',
+				#versionName : '1.0',
+				#ts : 3832759021
+			}
+		],
+		#name : 'CSS 2022 - Async Demos',
+		#versionName : '1.0'
+	}
+]
